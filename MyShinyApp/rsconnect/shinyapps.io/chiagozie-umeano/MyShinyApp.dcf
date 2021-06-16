@@ -1,0 +1,13 @@
+name: MyShinyApp
+title: MyShinyApp
+username:
+account: chiagozie-umeano
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4279406
+bundleId: 4722845
+url: https://chiagozie-umeano.shinyapps.io/MyShinyApp/
+when: 1623845809.32001
+lastSyncTime: 1623845809.32001
+asMultiple: FALSE
+asStatic: FALSE
